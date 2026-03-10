@@ -1,4 +1,4 @@
-# OOK Signal Simulation + Sliding-Window RMS Detection
+# Sliding-Window RMS Ripple Detection
 
 Simple Python simulator + detector for classical **OOK (On-Off Keying)** modulation in the presence of AWGN noise.
 
